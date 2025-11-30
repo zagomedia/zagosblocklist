@@ -1,3 +1,14 @@
+0.0.0.0 metrics2.data.hicloud.com
+0.0.0.0 ads.huawei.com
+0.0.0.0 ads.x.com
+0.0.0.0 crypto-loot.org
+0.0.0.0 juicyads.com
+0.0.0.0 2giga.link
+0.0.0.0 greatis.com
+0.0.0.0 fingerprintjs.com
+0.0.0.0 fpjs.io
+0.0.0.0 thetradedesk.com
+0.0.0.0 ironSource.mobi
 0.0.0.0 redirector.skimresources.com
 0.0.0.0 redirect.viglink.com
 0.0.0.0 api.impact.com
