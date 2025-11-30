@@ -1,4 +1,8 @@
 0.0.0.0 ib.adnxs.com
+0.0.0.0 advertising-api-eu.amazon.com
+0.0.0.0 widgets.pinterest.com
+0.0.0.0 advertising.yandex.ru
+0.0.0.0 advertising.apple.com
 0.0.0.0 secure.adnxs.com
 0.0.0.0 acdn.adnxs.com
 0.0.0.0 prebid.adnxs.com
