@@ -1,3 +1,14 @@
+0.0.0.0 bnc.lt
+0.0.0.0 pixel.quora.com
+0.0.0.0 px.srvcs.tumblr.com
+0.0.0.0 ads.vk.com
+0.0.0.0 vk.com/rtrg
+0.0.0.0 smartclip.com
+0.0.0.0 settings-win.data.microsoft.com
+0.0.0.0 vortex-win.data.microsoft.com
+0.0.0.0 mads-eu.amazon.com
+0.0.0.0 app-measurement.com
+0.0.0.0 firebase-settings.crashlytics.com
 0.0.0.0 metrics2.data.hicloud.com
 0.0.0.0 ads.huawei.com
 0.0.0.0 ads.x.com
