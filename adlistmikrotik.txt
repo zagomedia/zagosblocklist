@@ -1,3 +1,9 @@
+0.0.0.0 ib.adnxs.com
+0.0.0.0 secure.adnxs.com
+0.0.0.0 acdn.adnxs.com
+0.0.0.0 prebid.adnxs.com
+0.0.0.0 adnxs.com
+0.0.0.0 servicer.mgid.com
 0.0.0.0 adtago.s3.amazonaws.com
 0.0.0.0 analyticsengine.s3.amazonaws.com
 0.0.0.0 analytics.s3.amazonaws.com
