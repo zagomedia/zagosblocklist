@@ -6,3 +6,8 @@
 0.0.0.0 browser.sentry-cdn.com
 0.0.0.0 app.getsentry.com
 0.0.0.0 business-api.tiktok.com
+0.0.0.0 log.fc.yahoo.com
+0.0.0.0 udcm.yahoo.com
+0.0.0.0 metrika.yandex.ru
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 ads.tiktok.com
