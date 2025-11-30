@@ -1,0 +1,2 @@
+# zagosblocklist
+testing blocklist
