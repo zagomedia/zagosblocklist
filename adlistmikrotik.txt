@@ -22,15 +22,3 @@
 0.0.0.0 youtubei.googleapis.com
 0.0.0.0 pangleglobal.com
 0.0.0.0 googletagmanager.com
-0.0.0.0 tagmanager.google.com
-0.0.0.0 quantcast.com
-0.0.0.0 imasdk.googleapis.com
-0.0.0.0 dai.google.com
-0.0.0.0 ssl.p.jwpcdn.com
-0.0.0.0 mssl.fwmrm.net
-0.0.0.0 trackcmp.net
-0.0.0.0 widget.intercom.io
-0.0.0.0 shareasale-analytics.com
-0.0.0.0 click.linksynergy.com
-0.0.0.0 consent.cookiebot.com
-0.0.0.0 consentcdn.cookiebot.com
