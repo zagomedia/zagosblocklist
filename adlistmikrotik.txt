@@ -11,3 +11,16 @@
 0.0.0.0 metrika.yandex.ru
 0.0.0.0 appmetrica.yandex.ru
 0.0.0.0 ads.tiktok.com
+0.0.0.0 appmetrica.yandex.ru
+0.0.0.0 ads.microsoft.com
+0.0.0.0 indexexchange.com
+0.0.0.0 cdn.indexexchange.com
+0.0.0.0 mc.yandex.ru
+0.0.0.0 ironSource.mobi
+0.0.0.0 s.youtube.com
+0.0.0.0 redirector.googlevideo.com
+0.0.0.0 youtubei.googleapis.com
+0.0.0.0 pangleglobal.com
+0.0.0.0 googletagmanager.com
+0.0.0.0 tagmanager.google.com
+0.0.0.0 quantcast.com
