@@ -176,11 +176,6 @@
 0.0.0.0 app.usercentrics.eu
 0.0.0.0 api-adservices.apple.com
 0.0.0.0 xp.apple.com
-0.0.0.0 connect.facebook.net
-0.0.0.0 graph.facebook.com
-0.0.0.0 tr.facebook.com
-0.0.0.0 graph.instagram.com
-0.0.0.0 i.instagram.com
 0.0.0.0 media.net
 0.0.0.0 notify.bugsnag.com
 0.0.0.0 sessions.bugsnag.com
